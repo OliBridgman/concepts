@@ -28,7 +28,7 @@ as the people you're conversing with will think you're an idiot if you stand the
 not saying anything for too long. Quickly skim/guess the correct response to the various
 questions you'll face without making a fool of yourself.
 
-# Ninja Simon Says
+##Ninja Simon Says
 
 Infinite runner, a ninja running right. Control the game by inputting drum sequences.
 These sequences are played to the user prior to inputting the sequence, basically, simon says.
