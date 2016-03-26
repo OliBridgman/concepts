@@ -2,12 +2,6 @@
 
 A list of ideas that will most likely never be made.
 
-##Museum Curator Tycoon
-
-Tycoon game. In a museum. That you curate.
-Weird and wonderful pieces throughout history and pop culture are collectable.
-The Necronomicon. Shakespeare's Skull. Dead Sea Scrolls. Voynich Manuscript. etc.
-
 ##Walking Simulator
 
 Walk to the store. Control the character's movement via a rhythm engine.
@@ -52,7 +46,13 @@ You're Death, the Grim Reaper. You're in a hotel. You have to kill _everyone_. T
 time based. You can only affect the environment in small but meaningful ways, causing
 either small accidents or major catastrophes. Causing the death of one person at 8am may
 mean that it is impossible to cause the death of another later in the game. You can travel
-back in time to the beginning of the day to replay. Groundhog Day meets Final Destination.
+back in time to the beginning of the day to replay. Final Destination meets Majora's Mask.
+
+##Museum Curator Tycoon
+
+Tycoon game. In a museum. That you curate.
+Weird and wonderful pieces throughout history and pop culture are collectable.
+The Necronomicon. Shakespeare's Skull. Dead Sea Scrolls. Voynich Manuscript. etc.
 
 ##It's Not You, It's Me
 
