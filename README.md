@@ -27,3 +27,14 @@ you are large, and often times comically bad. You do not have time to read them 
 as the people you're conversing with will think you're an idiot if you stand there
 not saying anything for too long. Quickly skim/guess the correct response to the various
 questions you'll face without making a fool of yourself.
+
+# Ninja Simon Says
+
+Infinite runner, a ninja running right. Control the game by inputting drum sequences.
+These sequences are played to the user prior to inputting the sequence, basically, simon says.
+The drumming is Taiko, hence the ninja, mainly so we're not constrained to some 4/4 timing.
+Also once the user inputs the sequence, the ninja 'plays' the sequence. The landscape of the
+runner matches the pattern that was heard, so the ninja jumps gaps when bass drums hit,
+scales walls when smaller drums hit, etc. During this visual representation of the sequence,
+the user must also complete melodic sequences to complement the drum sequence, slicing
+and slashing enemies.
