@@ -38,3 +38,25 @@ runner matches the pattern that was heard, so the ninja jumps gaps when bass dru
 scales walls when smaller drums hit, etc. During this visual representation of the sequence,
 the user must also complete melodic sequences to complement the drum sequence, slicing
 and slashing enemies.
+
+##More Drums
+
+Similar to ninja simon says, but as a real time puzzle game. Each level is a drum pattern.
+The character is a ball. The user builds a character movement pattern with a drum sequencer,
+solving the level by playing the right drum beat to navigate the character through the moving
+platforms. Bass jumps low, snare jumps high, other things do other things.
+
+##Horrorlogy
+
+You're Death, the Grim Reaper. You're in a hotel. You have to kill _everyone_. The game is
+time based. You can only affect the environment in small but meaningful ways, causing
+either small accidents or major catastrophes. Causing the death of one person at 8am may
+mean that it is impossible to cause the death of another later in the game. You can travel
+back in time to the beginning of the day to replay. Groundhog Day meets Final Destination.
+
+##It's Not You, It's Me
+
+Groundhog day, but for the day your romantic relationship falls apart. Revisit the same
+horrible conversations, trying to find some way to make it all work. It never works.
+And if you somehow do beat the game, the date changes, the partner changes, and you're still
+having the same conversations.
